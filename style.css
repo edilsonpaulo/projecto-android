@@ -51,7 +51,7 @@ header > p{
     font-size: 1.2em;
     max-width: 800px;
     margin: auto;
-    padding: 0 10px;
+    padding: 0 10px 50px;
 }
 
 nav{
@@ -165,6 +165,10 @@ aside > ul{
     list-style-type: '\2714\00a0\00a0';
     list-style-position: inside;
     columns: 2;
+}
+
+aside li {
+    font-size: 0.9em;
 }
 
 
